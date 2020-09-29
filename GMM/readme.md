@@ -6,4 +6,4 @@ In this project, the 150 data points are seperated to different clusters.
 
 The visualization of data points and corresponding clusters is also implemented in plot function.
 
-
+![alt text](https://github.com/minhsueh/ml_algo/blob/master/GMM/GMM_2.png)
