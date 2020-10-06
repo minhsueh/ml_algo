@@ -1,3 +1,11 @@
+Data: 
+fastmap-wordlist.txt: contain the words as objects
+
+fastmap-data.txt: first two column is the ID of the words (ID: the row number correspond to fastmap-wordlist.txt), the third is the Damerau–Levenshtein distance
+between two words
+
+##########################
+
 In FastMap class, there are five main functions: dis_cal, project_dis_cal, Farest_pair, fastmap, and plot_2d.
 
 Note that in dis_cal function, the distance between two points for all points are not calculated once, instead,
