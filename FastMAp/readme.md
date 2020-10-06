@@ -1,3 +1,9 @@
+Goal:
+
+embed the objects in fastmap-data.txt into a 2D space
+
+##########################
+
 Data: 
 
 fastmap-wordlist.txt: contain the words as objects
