@@ -1,6 +1,6 @@
 Goal:
 
-embed the objects in fastmap-data.txt into a 2D space
+Embed the objects in fastmap-data.txt into a 2D space
 
 ##########################
 
