@@ -1,4 +1,5 @@
 Data: 
+
 fastmap-wordlist.txt: contain the words as objects
 
 fastmap-data.txt: first two column is the ID of the words (ID: the row number correspond to fastmap-wordlist.txt), the third is the Damerau–Levenshtein distance
